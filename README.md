@@ -30,5 +30,5 @@ linéaires.
 - Évaluation des modèles avec les métriques MAE, RMSE et R².
  
 5. Courbe d'Apprentissage : 
- Analyse de la performance du modèle Random Forest en fonction de la taille 
+- Analyse de la performance du modèle Random Forest en fonction de la taille 
 des données d'entraînement.
